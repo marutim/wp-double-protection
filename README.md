@@ -33,11 +33,11 @@ A. When you forget either of the password, reset your password using the normall
 
 A. With version 1.1, the reactivating of plugin does not reset the second password. Only resetting password resets the second password to the new first or main password.
 
-### Changelog ==
-#### 1.1 (9th Oct 2014) =
+### Changelog
+#### 1.1 (9th Oct 2014)
 * Allowed to keep the second password for the users after reactivating the plugin.
 * No resetting of second password on reactivating the plugin.
 
-#### 1.0 (6th Oct 2014) =
+#### 1.0 (6th Oct 2014)
 * First release.
 
