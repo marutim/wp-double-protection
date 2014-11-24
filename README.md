@@ -1,12 +1,12 @@
 # WP Double Protection 
 
-Contributors: marutim
-Tags: wp double protection, password protection, double passwords, multiple passwords, security, wordpress security, wp security
-Requires at least: 3.5.1
-Tested up to: 4.0
-Stable tag: 1.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: [marutim](https://profiles.wordpress.org/marutim)
+* Tags: wp double protection, password protection, double passwords, multiple passwords, security, wordpress security, wp security
+* Requires at least: 3.5.1
+* Tested up to: 4.0.1
+* Stable tag: 1.1
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows a second password option and thus making your website doubly protected.
 
