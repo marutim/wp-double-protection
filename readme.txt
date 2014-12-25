@@ -1,9 +1,10 @@
 === WP Double Protection ===
 Contributors: marutim
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=marutimohanty89@gmail.com&item_name=WP%20Double%20Protection
 Tags: wp double protection, password protection, double passwords, multiple passwords, security, wordpress security, wp security
 Requires at least: 3.5.1
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,6 +19,8 @@ You can see more, on how to use the plugin here in this blog [WP Double Protecti
 * Once the plugin is activated and until the user has not set his second password in the user profile, the second password will be same as the first password.
 * Once the second password is set from the user profile, the user would now need to enter the corresponding passwords while login.
 * To reset the second password the user has to follow the default lost password link and it will reset the second password to the newly chosen main password and then the user would have to again set a different second password from the user profile
+
+You can contribute to the plugin in [Github](https://github.com/marutim/wp-double-protection)
 
 == Installation ==
 1. Upload "**wp-double-protection**" folder to the "wp-content/**plugins**" directory.
@@ -37,6 +40,9 @@ A. With version 1.1, the reactivating of plugin does not reset the second passwo
 2. User Profile
 
 == Changelog ==
+= 1.2 (25th Dec 2014) =
+* Added localization and made the plugin translation ready.
+
 = 1.1 (9th Oct 2014) =
 * Allowed to keep the second password for the users after reactivating the plugin.
 * No resetting of second password on reactivating the plugin.
@@ -45,4 +51,4 @@ A. With version 1.1, the reactivating of plugin does not reset the second passwo
 * First release.
 
 == Upgrade Notice ==
-1.1
+1.2
